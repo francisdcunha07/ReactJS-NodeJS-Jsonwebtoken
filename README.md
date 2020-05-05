@@ -2,7 +2,7 @@
 A sample  Employee app which demonstrates how jsonwebtoken is created for authorized users once the user logsIn and has access to APIs with the use of JWT token.
 
 Quick Start
-# Install dependencies for server
+Install dependencies for server
 npm install
 
 # Install dependencies for client (go to client folder and run the below command
