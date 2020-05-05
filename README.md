@@ -21,12 +21,11 @@ npm run client
 Server runs on http://localhost:5000 and client on http://localhost:3000
 
 
-Packages Used for client 
+#### Packages Used for client 
 Axios to Make http requests from node.js (https://www.npmjs.com/package/axios)
-
 React-Router-Dom 
 
-Packages Used for Server 
+#### Packages Used for Server 
 express.js (https://www.npmjs.com/package/express)
 concurrently Run the client & server using single command (https://www.npmjs.com/package/concurrently)
 bcrypt to hash the password (https://www.npmjs.com/package/bcrypt)
