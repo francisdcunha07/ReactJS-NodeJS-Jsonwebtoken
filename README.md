@@ -3,6 +3,7 @@ A sample  Employee app which demonstrates how jsonwebtoken is created for author
 
 Quick Start
 Install dependencies for server
+
 npm install
 
 # Install dependencies for client (go to client folder and run the below command
