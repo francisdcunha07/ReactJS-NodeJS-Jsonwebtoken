@@ -20,3 +20,21 @@ npm run client
  Server runs on http://localhost:5000 and client on http://localhost:3000
 
 
+Packages Used for client 
+#Axios to Make http requests from node.js (https://www.npmjs.com/package/axios)
+#React-Router-Dom 
+
+Packages Used For server
+#express.js (https://www.npmjs.com/package/express)
+
+#concurrently Run the client & server using single command (https://www.npmjs.com/package/concurrently)
+
+#bcrypt to hash the password (https://www.npmjs.com/package/bcrypt)
+
+#jsonwebtoken to generate token (https://www.npmjs.com/package/jsonwebtoken)
+
+#body-parser - Node.js body parsing middleware (https://www.npmjs.com/package/body-parser)
+
+#nodemon - restarts the server on change for development(https://www.npmjs.com/package/nodemon)
+
+#dotenv
